@@ -1,4 +1,6 @@
-'https://www.urionlinejudge.com.br/judge/en/runs/code/23197969'
+# https://www.urionlinejudge.com.br/judge/en/runs/code/23197969
+
+
 for _ in range(int(input())):
     bonus = int(input())
     x = input().split()
