@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1914
+
 n = int(input())
 
 for _ in range(n):
