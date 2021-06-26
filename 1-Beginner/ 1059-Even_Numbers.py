@@ -1,0 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1015
+
+for i in range(0, 101, 2):
+  if i > 0:
+    print(i)
