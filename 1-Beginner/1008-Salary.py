@@ -1,6 +1,5 @@
 # https://www.urionlinejudge.com.br/judge/en/problems/view/1008
 
-
 n = int(input())
 total_trab = int(input())
 horas_trab = float(input())

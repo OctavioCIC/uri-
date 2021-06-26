@@ -1,6 +1,5 @@
 # https://www.urionlinejudge.com.br/judge/en/problems/view/1035
 
-
 def test(a, b, c, d):
   condicao = True
   if b <= c:
@@ -23,4 +22,3 @@ if x:
   print('Valores aceitos')
 else:
   print('Valores nao aceitos')
-

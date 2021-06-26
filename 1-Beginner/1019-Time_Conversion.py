@@ -1,6 +1,5 @@
 # https://www.urionlinejudge.com.br/judge/en/problems/view/1019
 
-
 n = int(input())
 
 horas = n // 3600

@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/3065
+
 while True:
     m = int(input())
     if m == 0:
@@ -16,4 +18,3 @@ while True:
             soma -= int(num.pop())
         else:
             soma += int(num.pop())
-

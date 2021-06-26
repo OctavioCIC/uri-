@@ -1,6 +1,5 @@
 # https://www.urionlinejudge.com.br/judge/en/problems/view/1006
 
-
 a = float(input())
 b = float(input())
 c = float(input())

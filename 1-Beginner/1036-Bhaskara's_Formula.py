@@ -1,6 +1,5 @@
 # https://www.urionlinejudge.com.br/judge/en/problems/view/1036
 
-
 a, b, c = map(float, input().split())
 
 delta = b**2 - (4*a*c)

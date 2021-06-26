@@ -1,6 +1,5 @@
 # https://www.urionlinejudge.com.br/judge/en/problems/view/1012
 
-
 a, b, c = map(float, input().split())
 
 aTr = a * c / 2

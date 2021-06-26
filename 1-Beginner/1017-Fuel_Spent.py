@@ -1,6 +1,5 @@
 # https://www.urionlinejudge.com.br/judge/en/problems/view/1017
 
-
 totHoras = int(input())
 totKm = int(input())
 
