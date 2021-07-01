@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1143
+
 a = int(input())
 
 for b in range (a):

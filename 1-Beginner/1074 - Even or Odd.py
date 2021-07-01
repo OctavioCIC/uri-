@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1074
+
 a = int (input())
 
 t = 0
@@ -25,3 +27,4 @@ t = 0
 while t < a:
     print (l[t])
     t = t + 1
+    

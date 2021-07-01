@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1118
+
 m = b = 0
 
 def loucura ():
@@ -25,3 +27,4 @@ while True:
         if loucura () == 1:
             break
         m = 0
+        

@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1131
+
 e = g = i = o = 0
 while o != 2:
     I, G = (int (x) for x in input().split())
