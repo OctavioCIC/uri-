@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1097
+
 i = 1
 j = 7
 while i <= 9:

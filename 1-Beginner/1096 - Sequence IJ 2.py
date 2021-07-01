@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1096
+
 i = 1
 j = 7
 while i <= 9:
@@ -6,3 +8,4 @@ while i <= 9:
         j = j - 1
     i = i + 2
     j = 7
+    

@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1117
+
 a = m = 0
 while a != 2:
     b = float(input())

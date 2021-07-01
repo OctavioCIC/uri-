@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1098
+
 i = 0
 j = 1
 k = 0

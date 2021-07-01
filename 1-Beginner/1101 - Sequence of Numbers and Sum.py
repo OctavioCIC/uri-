@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1101
+
 while True:
     s = 0
     m,n = (int (x) for x in input().split())

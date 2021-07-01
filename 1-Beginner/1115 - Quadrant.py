@@ -1,11 +1,16 @@
-x = y= 1
-while x != 0 or y != 0:
-    x, y = (int(x) for x in input().split())
-    if y > 0 < x:
-        print ('primeiro')
-    elif y > 0 > x:
-        print ('segundo')
-    elif y < 0 > x:
-        print ('terceiro')
-    elif y < 0 < x:
-        print ('quarto')
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1115
+
+while True:
+    x, y = map(int, input().split())
+    if x == 0 or y == 0:
+        break
+    if x > 0:
+        if y > 0:
+            print('primeiro')
+        else:
+            print('quarto')
+    else:
+        if y > 0:
+            print('segundo')
+        else:
+            print('terceiro')

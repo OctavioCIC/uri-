@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1051
+
 a = float (input())
 
 if a <= 2000:
@@ -17,3 +19,4 @@ else:
     b = (b/100)*28 + 80 + 270
     b = "{:.2f}".format (b)
     print (f"R$ {b}")
+    

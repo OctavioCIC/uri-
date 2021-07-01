@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1134
+
 resultado = {1:0, 2:0, 3:0}
 while True:
     a = int (input())

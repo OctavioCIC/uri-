@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1070
+
 a = int (input())
 
 if a%2 == 0:
