@@ -1,3 +1,5 @@
+# https://www.urionlinejudge.com.br/judge/en/problems/view/1061
+
 dia1 = input().split()
 h1, m1, s1 = (int(x) for x in input().split(':'))
 dia2 = input().split()
@@ -32,3 +34,4 @@ else:
     else:
         print (f'{m3} minuto(s)')
         print (f'{s3} segundo(s)')
+        
