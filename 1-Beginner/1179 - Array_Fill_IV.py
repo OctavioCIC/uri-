@@ -25,4 +25,3 @@ for i in range(15):
             
             for pos, valor in enumerate(par):
                 print(f'par[{pos}] = {valor}')
-
