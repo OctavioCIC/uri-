@@ -6,7 +6,7 @@ Este é o meu primeiro repositório! Estou aprendendo sobre Git/GitHub e utiliza
 
 ### PROJETO EM DESENVOLVIMENTO
 
-- [x] BEGINNER
-- [ ] AD HOC
-- [ ] STRINGS
-- [ ] DATA STRUCTURES AND LIBRARIES
+- [x] [BEGINNER](https://www.urionlinejudge.com.br/judge/en/problems/index/1?page=5)
+- [ ] [AD HOC](https://www.urionlinejudge.com.br/judge/en/problems/index/2)
+- [ ] [STRINGS](https://www.urionlinejudge.com.br/judge/en/problems/index/3)
+- [ ] [DATA STRUCTURES AND LIBRARIES](https://www.urionlinejudge.com.br/judge/en/problems/index/4)
