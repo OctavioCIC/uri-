@@ -4,7 +4,7 @@
 
 Este é o meu primeiro repositório! Estou aprendendo sobre Git/GitHub e utilizando os exercícios da plataforma [URI](<urionlinejudge.com.br/judge/en>) para edificar meu aprendendizado. 
 
-### PROJETO EM DESENVOLVIMENTO
+#### PROJETO EM DESENVOLVIMENTO
 
 - [x] [BEGINNER](https://www.urionlinejudge.com.br/judge/en/problems/index/1?page=5)
 - [ ] [AD HOC](https://www.urionlinejudge.com.br/judge/en/problems/index/2)
