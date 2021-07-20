@@ -1,6 +1,8 @@
-'https://www.urionlinejudge.com.br/judge/en/runs/code/23144104'
+# https://www.urionlinejudge.com.br/judge/en/problems/view/2376
+
 times = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 
          'k', 'l', 'm', 'n', 'o', 'p']
+
 cont = 0
 for _ in range(15):
     m, n = map(int, input().split())
