@@ -10,3 +10,4 @@ Este é o meu primeiro repositório! Estou aprendendo sobre Git/GitHub e utiliza
 - [ ] [AD HOC](https://www.urionlinejudge.com.br/judge/en/problems/index/2)
 - [ ] [STRINGS](https://www.urionlinejudge.com.br/judge/en/problems/index/3)
 - [ ] [DATA STRUCTURES AND LIBRARIES](https://www.urionlinejudge.com.br/judge/en/problems/index/4)
+- [ ] [SQL](https://www.urionlinejudge.com.br/judge/en/problems/index/9)
